@@ -1,0 +1,35 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+    font-family:'Courier New', Courier, monospace;
+    color:blueviolet;
+}
+
+#start, #No, #status{
+    font-size:18px;
+    color:blueviolet;
+    background:black;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.Copy-R{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align:center;
+    color:blueviolet;
+    line-height:3;
+    font-family:'Courier New', Courier, monospace;
+}
+
+canvas{
+   border:2px solid orange;
+   border-radius:10px;
+   margin: top 130px;
+   box-shadow:5px 5px 5px blueviolet;
+}
